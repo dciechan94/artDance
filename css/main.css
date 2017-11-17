@@ -105,11 +105,11 @@ h4 {
   margin-bottom: 10px;
 }
 a {
-  color: #aec62c;
+  color: #e31f67;
   outline: 0;
 }
 a:hover {
-  color: #dcff21;
+  color: #ed4e6e;
   text-decoration:none;
   outline: 0;
 }
@@ -1018,7 +1018,7 @@ border:none;
 +	Breadcrumbs Section Style
 --------------------------------------------------------------------------*/
 .section-breadcrumbs {
-  background: #aec62c;
+  background: #e31f67;
   margin-bottom: 10px;
   margin-top:90px;
 }
@@ -1040,7 +1040,7 @@ border:none;
   background: #222;
   color: #A0A0A0;
   padding: 0 20px 10px 20px;
-  border-top: 4px solid #aec62c;
+  border-top: 4px solid #e31f67;
   margin-top: 20px;
   -webkit-box-shadow: 0 -1px 12px rgba(0,0,0,0.4);
   -moz-box-shadow: 0 -1px 12px rgba(0,0,0,0.4);
